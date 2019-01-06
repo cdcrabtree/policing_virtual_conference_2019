@@ -1,25 +1,20 @@
 +++
-# Recent and Upcoming Talks widget.
-widget = "talks"
+# Custom widget.
+# An example of using the custom widget to create your own homepage section.
+# To create more sections, duplicate this file and edit the values below as desired.
+widget = "day1"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Recent & Upcoming Talks"
-subtitle = ""
+# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
+title = "Day 1"
+subtitle = "January 11"
 
 # Order that this section will appear in.
-weight = 30
+weight = 60
 
-# Number of talks to list.
-count = 10
-
-# List format.
-#   0 = Simple
-#   1 = Detailed
-#   2 = Stream
-list_format = 2
-
-# Exclude talks that are shown in the Selected Talks widget?
-exclude_selected = false
 +++
 
+This is an example of using the *custom* widget to create your own homepage section.
+
+To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
