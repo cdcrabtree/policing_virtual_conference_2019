@@ -52,8 +52,8 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Courtenay Conrad and Charles Crabtree"
-  role = "Organizers"
+  name = "Courtenay Conrad & Charles Crabtree"
+  role = "Co-Organizers"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -113,7 +113,7 @@ enableGitInfo = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "classic"
+  font = "default"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
   description = ""
@@ -263,7 +263,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+    link = "mailto:ccrabtr@umich.edu,cconrad2@ucmerced.edu"  # For a direct email link, use "mailto:test@example.org".
 
   #[[params.social]]
   #  icon = "twitter"
@@ -302,17 +302,17 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Day 1"
-  url = "#dayone"
+  url = "#day_one"
   weight = 2
 
 [[menu.main]]
   name = "Day 2"
-  url = "#daytwo"
+  url = "#day_two"
   weight = 3
 
 [[menu.main]]
   name = "Day 3"
-  url = "#daythree"
+  url = "#day_three"
   weight = 4
 
 # Link to a PDF of your resume/CV from the menu.
