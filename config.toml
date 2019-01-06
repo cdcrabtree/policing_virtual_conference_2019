@@ -302,17 +302,17 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Day 1"
-  url = "#day1"
+  url = "#dayone"
   weight = 2
 
 [[menu.main]]
   name = "Day 2"
-  url = "#day3"
+  url = "#daytwo"
   weight = 3
 
 [[menu.main]]
   name = "Day 3"
-  url = "#day3"
+  url = "#daythree"
   weight = 4
 
 # Link to a PDF of your resume/CV from the menu.
