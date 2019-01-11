@@ -9,6 +9,10 @@ weight = 5
  
 +++
 
+{{% alert note %}}
+The conference is now over. Thanks to all participants!
+{{% /alert %}}
+
 # Welcome!
 
 We invite you to participate in our virtual conference on The Politics of Policing as part of the [Conflict Consortium’s](https://conflictconsortium.weebly.com/) Virtual Workshop series. Since scholarship on policing spans multiple subfields of political science, the literature on it is somewhat fragmented. Our goal with this virtual conference, which follows a [mini-conference held at the 2018 annual meeting of the Western Political Science Association (WPSA)](https://www.dropbox.com/s/i9ayj3ebiifrscb/policing_miniconference_program.pdf?dl=0), is to bring together researchers who work on policing from myriad perspectives and across subfields.
